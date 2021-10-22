@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noobarun
 - 👀 I’m interested in Almost everything that I don't know
 - 🌱 I’m currently learning Angular and React JS
-- 💞️ I’m looking to collaborate on small project which implements javascript frameworks
+- 💞️ I’m looking to collaborate on small project which implements JavaScript frameworks
 - 📫 How to reach me ...
 
 <!---
